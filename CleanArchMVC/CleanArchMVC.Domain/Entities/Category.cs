@@ -8,10 +8,9 @@ using System.Threading.Tasks;
 
 namespace CleanArchMVC.Domain.Entities
 {
-    public sealed class Category
+    public sealed class Category : Entity
     {
-        public int Id { get; private set; }
-        public string Name { get; private set; }
+        public string? Name { get; private set; }
 
         public Category(string name)
         {
@@ -25,13 +24,15 @@ namespace CleanArchMVC.Domain.Entities
             Id = id;
         }
 
+        public void Update(string name)
+        {
+            ValidateDomain(name);
+        }
 
         private void ValidateDomain(string name)
         {
             DomainExceptionValidation.When(string.IsNullOrEmpty(name), "Invalid Name, Name is required");
-
             DomainExceptionValidation.When(name.Length < 3, "Invalid Name, too short, minimum 3 charecters");
-
             Name = name;
         }
 

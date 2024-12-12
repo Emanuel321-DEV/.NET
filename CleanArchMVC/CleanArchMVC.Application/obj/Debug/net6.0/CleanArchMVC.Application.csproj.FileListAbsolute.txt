@@ -1,0 +1,16 @@
+C:\Users\nuely\Documents\.NET\CleanArchMVC\CleanArchMVC.Application\bin\Debug\net6.0\CleanArchMVC.Application.deps.json
+C:\Users\nuely\Documents\.NET\CleanArchMVC\CleanArchMVC.Application\bin\Debug\net6.0\CleanArchMVC.Application.dll
+C:\Users\nuely\Documents\.NET\CleanArchMVC\CleanArchMVC.Application\bin\Debug\net6.0\CleanArchMVC.Application.pdb
+C:\Users\nuely\Documents\.NET\CleanArchMVC\CleanArchMVC.Application\bin\Debug\net6.0\CleanArchMVC.Domain.dll
+C:\Users\nuely\Documents\.NET\CleanArchMVC\CleanArchMVC.Application\bin\Debug\net6.0\CleanArchMVC.Domain.pdb
+C:\Users\nuely\Documents\.NET\CleanArchMVC\CleanArchMVC.Application\obj\Debug\net6.0\CleanArchMVC.Application.csproj.AssemblyReference.cache
+C:\Users\nuely\Documents\.NET\CleanArchMVC\CleanArchMVC.Application\obj\Debug\net6.0\CleanArchMVC.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nuely\Documents\.NET\CleanArchMVC\CleanArchMVC.Application\obj\Debug\net6.0\CleanArchMVC.Application.AssemblyInfoInputs.cache
+C:\Users\nuely\Documents\.NET\CleanArchMVC\CleanArchMVC.Application\obj\Debug\net6.0\CleanArchMVC.Application.AssemblyInfo.cs
+C:\Users\nuely\Documents\.NET\CleanArchMVC\CleanArchMVC.Application\obj\Debug\net6.0\CleanArchMVC.Application.csproj.CoreCompileInputs.cache
+C:\Users\nuely\Documents\.NET\CleanArchMVC\CleanArchMVC.Application\obj\Debug\net6.0\CleanArchMVC.Application.sourcelink.json
+C:\Users\nuely\Documents\.NET\CleanArchMVC\CleanArchMVC.Application\obj\Debug\net6.0\CleanArchMVC.Application.csproj.CopyComplete
+C:\Users\nuely\Documents\.NET\CleanArchMVC\CleanArchMVC.Application\obj\Debug\net6.0\CleanArchMVC.Application.dll
+C:\Users\nuely\Documents\.NET\CleanArchMVC\CleanArchMVC.Application\obj\Debug\net6.0\refint\CleanArchMVC.Application.dll
+C:\Users\nuely\Documents\.NET\CleanArchMVC\CleanArchMVC.Application\obj\Debug\net6.0\CleanArchMVC.Application.pdb
+C:\Users\nuely\Documents\.NET\CleanArchMVC\CleanArchMVC.Application\obj\Debug\net6.0\ref\CleanArchMVC.Application.dll
